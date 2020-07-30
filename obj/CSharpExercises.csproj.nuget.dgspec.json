@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj": {}
+    "/Users/Asten/Documents/workspace/codeProjects/csharp-dotnet-exercises/CSharpExercises.csproj": {}
   },
   "projects": {
-    "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj": {
+    "/Users/Asten/Documents/workspace/codeProjects/csharp-dotnet-exercises/CSharpExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj",
+        "projectUniqueName": "/Users/Asten/Documents/workspace/codeProjects/csharp-dotnet-exercises/CSharpExercises.csproj",
         "projectName": "CSharpExercises",
-        "projectPath": "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj",
-        "packagesPath": "/home/gitpod/.nuget/packages/",
-        "outputPath": "/workspace/dnc100-csharp-dotnet-exercises/obj/",
+        "projectPath": "/Users/Asten/Documents/workspace/codeProjects/csharp-dotnet-exercises/CSharpExercises.csproj",
+        "packagesPath": "/Users/Asten/.nuget/packages/",
+        "outputPath": "/Users/Asten/Documents/workspace/codeProjects/csharp-dotnet-exercises/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gitpod/.nuget/NuGet/NuGet.Config"
+          "/Users/Asten/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }
